@@ -1,0 +1,63 @@
+{"lss6":[
+          {"user":"lss6","source_ip":"10.56.92.187","name":"SELECT cmd FROM  `command`","value":"90866"},
+          {"user":"lss6","source_ip":"10.56.92.187","name":"set autocommit=04294967295","value":"86751"},
+          {"user":"lss6","source_ip":"10.56.92.187","name":"SET NAMES utf8 #4294967295","value":"86610"},
+          {"user":"lss6","source_ip":"10.56.92.187","name":"SET NAMES utf8M  `command`","value":"4098"},
+          {"user":"lss6","source_ip":"10.56.92.187","name":"set autocommit=0 `command`","value":"4097"},
+            {"user":"lss6","source_ip":"10.56.92.187","name":"SET NAMES utf88'4294967295","value":"68"},
+             {"user":"lss6","source_ip":"10.56.92.187","name":"SET NAMES utf8n14294967295","value":"32"},
+          {"user":"lss6","source_ip":"10.56.92.187","name":"SET NAMES utf8=04294967295","value":"26"},
+          {"user":"lss6","source_ip":"10.56.92.187","name":"SET NAMES utf8=14294967295","value":"9"},
+          {"user":"lss6","source_ip":"10.56.92.187","name":"SET NAMES utf88' `command`","value":"8"},
+          {"user":"lss6","source_ip":"10.56.92.187","name":"set autocommit=0rvice`;295","value":"7"},
+          {"user":"lss6","source_ip":"10.56.92.187","name":"SET NAMES utf8service`;295","value":"5"},
+          {"user":"lss6","source_ip":"10.56.92.187","name":"set autocommit=0ation67295","value":"3"},
+          {"user":"lss6","source_ip":"10.56.92.187","name":"set autocommit=0)294967295","value":"3"},
+          {"user":"lss6","source_ip":"10.56.92.187","name":"SET NAMES utf8E()294967295","value":"2"},
+          {"user":"lss6","source_ip":"10.56.92.187","name":"SET NAMES utf8olation67295","value":"2"},
+          {"user":"lss6","source_ip":"10.56.92.187","name":"SET NAMES utf8n1 `command`","value":"2"}
+],
+  "uyhrnf": [
+            {"user":"uyhrnf","source_ip":"10.49.148.130","name":"set autocommit=04294967295","value":"57718"},
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"SET AUTOCOMMIT=14294967295","value":"57717"},
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"SET NAMES utf8 #4294967295","value":"57174"},
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"commitng error #4294967295","value":"1458"},
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"SET NAMES utf8=04294967295","value":"359"},
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"SET NAMES utf88'4294967295","value":"161"},
+            {"user":"uyhrnf","source_ip":"10.49.148.130","name":"SET NAMES utf8/ufffd+/ufffd/ufffd/u0004/u6435/ufffd/ufffdt/ufffd!/ufffds~/ufffd/ufffdZN","value":"44"},
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"SET AUTOCOMMIT=1/ufffd/ufffd/u0004/u6435/ufffd/ufffdt/ufffd!/ufffds~/ufffd/ufffdZN","value":"44"},
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"set autocommit=0/ufffd/ufffd/u0004/u6435/ufffd/ufffdt/ufffd!/ufffds~/ufffd/ufffdZN","value":"44"},
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"SET NAMES utf8=14294967295","value":"19"},
+            {"user":"uyhrnf","source_ip":"10.49.148.130","name":"set autocommit=0","value":"9"},
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"SET NAMES utf8ad","value":"9"},
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"SET AUTOCOMMIT=1","value":"9"},
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"committocommit=14294967295","value":"9"},
+
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"commitck error #4294967295","value":"8"},
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"SET NAMES utf8''4294967295","value":"8"},
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"SET AUTOCOMMIT=1ync","value":"8"},
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"set autocommit=0ync","value":"8"},
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"SET NAMES utf8async","value":"8"},
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"set autocommit=0SACTION ISOLATION LEVEL REPEATABLE READ/u001a/ufffd/ufffd]/ufffd/u001f:/ufffd/ufffd/u0014/ufffd","value":"8"},
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"SET NAMES utf8ANSACTION ISOLATION LEVEL REPEATABLE READ/u001a/ufffd/ufffd]/ufffd/u001f:/ufffd/ufffd/u0014/ufffd","value":"8"},
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"SET AUTOCOMMIT=1SACTION ISOLATION LEVEL REPEATABLE READ/u001a/ufffd/ufffd]/ufffd/u001f:/ufffd/ufffd/u0014/ufffd","value":"8"},
+
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"committocommit=04294967295","value":"7"},
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"set autocommit=0ync","value":"6"},
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"SET NAMES utf8async","value":"6"},
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"SET AUTOCOMMIT=1ync","value":"6"},
+
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"set autocommit=0s;94967295","value":"5"},
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"SET NAMES utf8tus;94967295","value":"5"},
+        {"user":"uyhrnf","source_ip":"10.49.148.130","name":"SET AUTOCOMMIT=1s;94967295","value":"5"}
+  ],
+"etgun59": [
+          {"user":"etgun59","source_ip":"10.49.178.162","name":"SET NAMES utf8 #4294967295","value":"82"},
+        {"user":"etgun59","source_ip":"10.49.178.162","name":"SET SQL","value":"10"},
+      {"user":"etgun59","source_ip":"10.49.178.162","name":"SET NAMES utf88'4294967295","value":"3"}
+],
+"yxdzh3": [
+    {"user":"yxdzh3","source_ip":"10.49.137.123","name":"SET NAMES latin14294967295","value":"5"},
+    {"user":"yxdzh3","source_ip":"10.49.137.123","name":"SELECT UNIX","value":"5"}
+]
+}

@@ -1,0 +1,17 @@
+{
+"10.49.27.35":[
+        {"text":"SET","size":"40","num":"96726"},
+{"text":"NAMES","size":"40","num":"96726"},
+{"text":"utf8","size":"40","num":"91742"},
+{"text":"#4294967295","size":"40","num":"91708"},
+{"text":"set","size":"40","num":"96704"},
+{"text":"autocommit","size":"40","num":"96704"},
+{"text":"SELECT","size":"40","num":"96515"},
+{"text":"cmd","size":"40","num":"96515"},
+{"text":"FROM","size":"40","num":"96515"},
+{"text":"commitng","size":"19","num":"20"},
+{"text":"error","size":"19","num":"20"},
+{"text":"`xss`295","size":"19","num":"4"},
+{"text":"`domain`","size":"19","num":"2"}
+]
+}

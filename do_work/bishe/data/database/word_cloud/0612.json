@@ -1,0 +1,181 @@
+{
+"10.56.92.187":[
+{"text":"SET","size":"40","num":"81488"},
+{"text":"NAMES","size":"40","num":"81488"},
+{"text":"utf8","size":"35","num":"78111"},
+{"text":"#4294967295","size":"35","num":"78074"},
+{"text":"set","size":"40","num":"81493"},
+{"text":"autocommit","size":"40","num":"81493"},
+{"text":"SELECT","size":"40","num":"81453"},
+{"text":"cmd","size":"40","num":"81453"},
+{"text":"FROM","size":"40","num":"81479"},
+{"text":"`command`","size":"40","num":"87924"},
+{"text":"where","size":"16","num":"24"},
+{"text":"id","size":"10","num":"33"},
+{"text":"in","size":"10","num":"33"},
+{"text":"game_id","size":"10","num":"18"},
+{"text":"servers","size":"10","num":"12"},
+{"text":"ORDER BY","size":"10","num":"15"},
+{"text":"AND","size":"10","num":"57"},
+{"text":"union_id","size":"10","num":"24"},
+{"text":"'/etc/passwd","size":"16","num":"6"},
+{"text":"10.56.92.187","size":"40","num":"81488"}
+],
+"10.24.249.104":[
+     {"text": "目标IP","size": "40","num": "0"},
+	 {"text": "10.24.249.104","size": "40","num": "0"},
+   {"text": "不存在SQL操作","size": "40","num": "0"}
+],
+"10.49.148.130":[
+{"text":"set","size":"30","num":"45867"},
+{"text":"10.49.148.130","size":"30","num":"91677"},
+{"text":"autocommit","size":"30","num":"45867"},
+{"text":"04294967295","size":"30","num":"45833"},
+{"text":"SET","size":"40","num":"91677"},
+{"text":"AUTOCOMMIT","size":"30","num":"45826"},
+{"text":"NAMES","size":"30","num":"45851"},
+{"text":"utf8","size":"30","num":"45665"},
+{"text":"commitng","size":"20","num":"1255"},
+{"text":"error","size":"20","num":"1259"},
+{"text":"machine5","size":"10","num":"6"},
+{"text":"commitck","size":"10","num":"4"},
+{"text":"SHOW","size":"10","num":"2"},
+{"text":"WARNINGSr","size":"10","num":"2"},
+{"text":"caseList","size":"10","num":"3"},
+{"text":"commitMES","size":"10","num":"1"}
+],
+"10.49.148.131":[
+     {"text": "目标IP","size": "40","num": "0"},
+	 {"text": "10.49.148.131","size": "40","num": "0"},
+   {"text": "不存在SQL操作","size": "40","num": "0"}
+],
+"10.49.178.162":[
+{"text":"SET","size":"10","num":"96"},
+{"text":"10.49.178.162","size":"10","num":"96"},
+{"text":"NAMES","size":"10","num":"89"},
+{"text":"utf8","size":"10","num":"87"},
+{"text":"#4294967295","size":"10","num":"87"},
+{"text":"SQL_AUTO_IS_NULL","size":"10","num":"7"},
+{"text":"","size":"10","num":"14"}
+],
+"10.49.174.157":[
+     {"text": "目标IP","size": "40","num": "0"},
+	 {"text": "10.49.174.157","size": "40","num": "0"},
+   {"text": "不存在SQL操作","size": "40","num": "0"}
+],
+"10.49.137.123":[
+{"text":"SET","size":"10","num":"1"},
+{"text":"10.49.137.123","size":"10","num":"1"},
+{"text":"NAMES","size":"10","num":"1"},
+{"text":"latin14294967295","size":"10","num":"1"},
+{"text":"SELECT","size":"10","num":"1"},
+{"text":"UNIX_TIMESTAMP()295","size":"10","num":"1"}
+],
+"10.49.223.163":[
+     {"text": "目标IP","size": "40","num": "0"},
+	 {"text": "10.49.223.163","size": "40","num": "0"},
+   {"text": "不存在SQL操作","size": "40","num": "0"}
+],
+"10.49.231.21":[
+{"text":"SET","size":"20","num":"1022"},
+{"text":"10.49.231.21","size":"20","num":"1022"},
+{"text":"NAMES","size":"20","num":"1022"},
+{"text":"utf8","size":"20","num":"1014"},
+{"text":"#4294967295","size":"20","num":"1040"},
+{"text":"set","size":"20","num":"1047"},
+{"text":"autocommit","size":"20","num":"1047"},
+{"text":"commitng","size":"10","num":"26"},
+{"text":"error","size":"10","num":"26"},
+{"text":"'utf8'4294967295","size":"10","num":"1"}
+],
+"10.49.253.35":[
+     {"text": "目标IP","size": "40","num": "0"},
+	 {"text": "10.49.253.35","size": "40","num": "0"},
+   {"text": "不存在SQL操作","size": "40","num": "0"}
+],
+"10.49.137.87":[
+{"text":"SET","size":"10","num":"99"},
+{"text":"10.49.137.87","size":"10","num":"99"},
+{"text":"NAMES","size":"10","num":"99"},
+{"text":"UTF8","size":"10","num":"98"},
+{"text":"#4294967295","size":"10","num":"98"}
+],
+"10.49.223.117":[
+     {"text": "目标IP","size": "40","num": "0"},
+	 {"text": "10.49.223.117","size": "40","num": "0"},
+   {"text": "不存在SQL操作","size": "40","num": "0"}
+],
+"10.56.115.125":[
+{"text":"SET","size":"10","num":"17"},
+{"text":"10.56.115.125","size":"10","num":"17"},
+{"text":"NAMES","size":"10","num":"17"},
+{"text":"utf8M","size":"10","num":"6"},
+{"text":"","size":"10","num":"6"},
+{"text":"`command`","size":"10","num":"11"},
+{"text":"set","size":"10","num":"17"},
+{"text":"autocommit","size":"10","num":"17"},
+{"text":"0","size":"10","num":"5"},
+{"text":"utf8","size":"10","num":"11"},
+{"text":"#4294967295","size":"13","num":"17"},
+{"text":"commitng","size":"10","num":"6"},
+{"text":"error","size":"10","num":"6"}
+],
+"10.30.245.12":[
+     {"text": "目标IP","size": "40","num": "0"},
+	 {"text": "10.30.245.12","size": "40","num": "0"},
+   {"text": "不存在SQL操作","size": "40","num": "0"}
+],
+"10.49.253.219":[
+{"text":"SET","size":"10","num":"29"},
+{"text":"10.49.253.219","size":"10","num":"29"},
+{"text":"NAMES","size":"10","num":"29"},
+{"text":"utf8","size":"10","num":"28"},
+{"text":"#4294967295","size":"13","num":"26"},
+{"text":"set","size":"10","num":"30"},
+{"text":"autocommit","size":"10","num":"30"},
+{"text":"select","size":"10","num":"2"},
+{"text":"id,name","size":"10","num":"2"},
+{"text":"from","size":"10","num":"4"},
+{"text":"groups","size":"10","num":"6"},
+{"text":"0rom","size":"10","num":"2"}
+],
+"10.49.137.141":[
+     {"text": "目标IP","size": "40","num": "0"},
+	 {"text": "10.49.137.141","size": "40","num": "0"},
+   {"text": "不存在SQL操作","size": "40","num": "0"}
+],
+"10.56.148.238":[
+{"text":"SHOW","size":"10","num":"54"},
+{"text":"10.56.148.238","size":"10","num":"54"},
+{"text":"COLUMNS","size":"10","num":"54"},
+{"text":"FROM","size":"10","num":"55"},
+{"text":"`user`95","size":"10","num":"3"},
+{"text":"`tree`95","size":"10","num":"45"},
+{"text":"SELECT","size":"10","num":"1"},
+{"text":"*","size":"10","num":"1"},
+{"text":"`tree`","size":"10","num":"1"},
+{"text":"ee`95","size":"10","num":"1"},
+{"text":"`server`","size":"10","num":"3"},
+{"text":"`tree`r`","size":"10","num":"3"}
+],
+"10.49.179.16":[
+     {"text": "目标IP","size": "40","num": "0"},
+	 {"text": "10.49.179.16","size": "40","num": "0"},
+   {"text": "不存在SQL操作","size": "40","num": "0"}
+],
+"10.56.193.37":[
+{"text":"SET","size":"10","num":"7"},
+{"text":"10.56.193.37","size":"10","num":"8"},
+{"text":"NAMES","size":"10","num":"6"},
+{"text":"utf8","size":"10","num":"6"},
+{"text":"#4294967295","size":"10","num":"8"},
+{"text":"SHOW","size":"10","num":"2"},
+{"text":"COLLATION","size":"10","num":"2"},
+{"text":"autocommit","size":"10","num":"1"}
+],
+"10.24.249.253":[
+     {"text": "目标IP","size": "40","num": "0"},
+	 {"text": "10.24.249.253","size": "40","num": "0"},
+   {"text": "不存在SQL操作","size": "40","num": "0"}
+]
+}

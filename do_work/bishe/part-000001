@@ -1,0 +1,36 @@
+{"record_time": "2019-06-04 00:29:04.445", "source_ip": "10.56.92.187", "destination_ip": "10.24.249.104", "protocol": "mysql", "destination_port": "3306", "sql_info": "SET NAMES utf8 #4294967295"}
+{"record_time": "2019-06-04 00:29:04.446", "source_ip": "10.56.92.187", "destination_ip": "10.24.249.104", "protocol": "mysql", "destination_port": "3306", "sql_info": "set autocommit=04294967295"}
+{"record_time": "2019-06-04 00:29:04.447", "source_ip": "10.56.92.187", "destination_ip": "10.24.249.104", "protocol": "mysql", "destination_port": "3306", "sql_info": "SELECT cmd FROM  `command`"}
+{"record_time": "2019-06-04 00:29:04.628", "source_ip": "10.49.148.130", "destination_ip": "10.49.148.131", "protocol": "mysql", "destination_port": "3306", "sql_info": "SET NAMES utf8 #4294967295"}	
+{"record_time": "2019-06-04 00:29:04.629", "source_ip": "10.49.148.130", "destination_ip": "10.49.148.131", "protocol": "mysql", "destination_port": "3306", "sql_info": "set autocommit=04294967295"}	
+{"record_time": "2019-06-04 00:29:04.629", "source_ip": "10.49.148.130", "destination_ip": "10.49.148.131", "protocol": "mysql", "destination_port": "3306", "sql_info": "SET AUTOCOMMIT=14294967295"}	
+{"record_time": "2019-06-04 00:29:04.951", "source_ip": "10.56.92.187", "destination_ip": "10.24.249.104", "protocol": "mysql", "destination_port": "3306", "sql_info": "SET NAMES utf8 #4294967295"}	
+{"record_time": "2019-06-04 00:29:04.952", "source_ip": "10.56.92.187", "destination_ip": "10.24.249.104", "protocol": "mysql", "destination_port": "3306", "sql_info": "set autocommit=04294967295"}	
+{"record_time": "2019-06-04 00:29:04.953", "source_ip": "10.56.92.187", "destination_ip": "10.24.249.104", "protocol": "mysql", "destination_port": "3306", "sql_info": "SELECT cmd FROM  `command`"}	
+{"record_time": "2019-06-04 00:29:05.457", "source_ip": "10.56.92.187", "destination_ip": "10.24.249.104", "protocol": "mysql", "destination_port": "3306", "sql_info": "set autocommit=04294967295"}	
+{"record_time": "2019-06-04 00:29:05.457", "source_ip": "10.56.92.187", "destination_ip": "10.24.249.104", "protocol": "mysql", "destination_port": "3306", "sql_info": "SET NAMES utf8 #4294967295"}	
+{"record_time": "2019-06-04 00:29:05.458", "source_ip": "10.56.92.187", "destination_ip": "10.24.249.104", "protocol": "mysql", "destination_port": "3306", "sql_info": "SELECT cmd FROM  `command`"}	
+{"record_time": "2019-06-04 00:29:05.642", "source_ip": "10.49.148.130", "destination_ip": "10.49.148.131", "protocol": "mysql", "destination_port": "3306", "sql_info": "SET NAMES utf8 #4294967295"}	
+{"record_time": "2019-06-04 00:29:05.643", "source_ip": "10.49.148.130", "destination_ip": "10.49.148.131", "protocol": "mysql", "destination_port": "3306", "sql_info": "set autocommit=04294967295"}	
+{"record_time": "2019-06-04 00:29:05.643", "source_ip": "10.49.148.130", "destination_ip": "10.49.148.131", "protocol": "mysql", "destination_port": "3306", "sql_info": "SET AUTOCOMMIT=14294967295"}	
+{"record_time": "2019-06-04 00:29:06.468", "source_ip": "10.56.92.187", "destination_ip": "10.24.249.104", "protocol": "mysql", "destination_port": "3306", "sql_info": "set autocommit=04294967295"}	
+{"record_time": "2019-06-04 00:29:06.468", "source_ip": "10.56.92.187", "destination_ip": "10.24.249.104", "protocol": "mysql", "destination_port": "3306", "sql_info": "SET NAMES utf8 #4294967295"}	
+{"record_time": "2019-06-04 00:29:06.473", "source_ip": "10.56.92.187", "destination_ip": "10.24.249.104", "protocol": "mysql", "destination_port": "3306", "sql_info": "SELECT cmd FROM  `command`"}	
+{"record_time": "2019-06-04 00:29:06.656", "source_ip": "10.49.148.130", "destination_ip": "10.49.148.131", "protocol": "mysql", "destination_port": "3306", "sql_info": "SET NAMES utf8 #4294967295"}	
+{"record_time": "2019-06-04 00:29:06.657", "source_ip": "10.49.148.130", "destination_ip": "10.49.148.131", "protocol": "mysql", "destination_port": "3306", "sql_info": "set autocommit=04294967295"}	
+{"record_time": "2019-06-04 00:29:06.657", "source_ip": "10.49.148.130", "destination_ip": "10.49.148.131", "protocol": "mysql", "destination_port": "3306", "sql_info": "SET AUTOCOMMIT=14294967295"}	
+{"record_time": "2019-06-04 00:29:07.670", "source_ip": "10.49.148.130", "destination_ip": "10.49.148.131", "protocol": "mysql", "destination_port": "3306", "sql_info": "SET NAMES utf8 #4294967295"}	
+{"record_time": "2019-06-04 00:29:07.670", "source_ip": "10.49.148.130", "destination_ip": "10.49.148.131", "protocol": "mysql", "destination_port": "3306", "sql_info": "set autocommit=04294967295"}	
+{"record_time": "2019-06-04 00:29:07.671", "source_ip": "10.49.148.130", "destination_ip": "10.49.148.131", "protocol": "mysql", "destination_port": "3306", "sql_info": "SET AUTOCOMMIT=14294967295"}	
+{"record_time": "2019-06-04 00:29:08.489", "source_ip": "10.56.92.187", "destination_ip": "10.24.249.104", "protocol": "mysql", "destination_port": "3306", "sql_info": "SET NAMES utf8 #4294967295"}	
+{"record_time": "2019-06-04 00:29:08.490", "source_ip": "10.56.92.187", "destination_ip": "10.24.249.104", "protocol": "mysql", "destination_port": "3306", "sql_info": "set autocommit=04294967295"}	
+{"record_time": "2019-06-04 00:29:08.492", "source_ip": "10.56.92.187", "destination_ip": "10.24.249.104", "protocol": "mysql", "destination_port": "3306", "sql_info": "SELECT cmd FROM  `command`"}	
+{"record_time": "2019-06-04 00:29:08.684", "source_ip": "10.49.148.130", "destination_ip": "10.49.148.131", "protocol": "mysql", "destination_port": "3306", "sql_info": "SET NAMES utf8 #4294967295"}	
+{"record_time": "2019-06-04 00:29:08.684", "source_ip": "10.49.148.130", "destination_ip": "10.49.148.131", "protocol": "mysql", "destination_port": "3306", "sql_info": "set autocommit=04294967295"}	
+{"record_time": "2019-06-04 00:29:08.685", "source_ip": "10.49.148.130", "destination_ip": "10.49.148.131", "protocol": "mysql", "destination_port": "3306", "sql_info": "SET AUTOCOMMIT=14294967295"}	
+{"record_time": "2019-06-04 00:29:08.995", "source_ip": "10.56.92.187", "destination_ip": "10.24.249.104", "protocol": "mysql", "destination_port": "3306", "sql_info": "SET NAMES utf8 #4294967295"}	
+{"record_time": "2019-06-04 00:29:08.996", "source_ip": "10.56.92.187", "destination_ip": "10.24.249.104", "protocol": "mysql", "destination_port": "3306", "sql_info": "set autocommit=04294967295"}	
+{"record_time": "2019-06-04 00:29:08.997", "source_ip": "10.56.92.187", "destination_ip": "10.24.249.104", "protocol": "mysql", "destination_port": "3306", "sql_info": "SELECT cmd FROM  `command`"}	
+{"record_time": "2019-06-04 00:29:09.699", "source_ip": "10.49.148.130", "destination_ip": "10.49.148.131", "protocol": "mysql", "destination_port": "3306", "sql_info": "SET NAMES utf8 #4294967295"}	
+{"record_time": "2019-06-04 00:29:09.699", "source_ip": "10.49.148.130", "destination_ip": "10.49.148.131", "protocol": "mysql", "destination_port": "3306", "sql_info": "set autocommit=04294967295"}	
+{"record_time": "2019-06-04 00:29:09.699", "source_ip": "10.49.148.130", "destination_ip": "10.49.148.131", "protocol": "mysql", "destination_port": "3306", "sql_info": "SET AUTOCOMMIT=14294967295"}

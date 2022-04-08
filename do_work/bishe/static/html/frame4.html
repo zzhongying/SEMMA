@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en" style="height:100%">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+<link rel="stylesheet" href="../css/frame4.css">
+<script type="text/javascript" src="../js/d3.v3.js"></script>
+<!--<script type="text/javascript" src="../js/d3.min.js"></script>-->
+<script type="text/javascript" src="../js/d3.v3.min1.js"></script>
+<script type="text/javascript" src="../js/dagre-d3.min.js"></script>
+<script type="text/javascript" src="../js/jquery1.min.js"></script>
+<script type="text/javascript" src="../js/d3.layout.cloud.js"></script>
+<!--<script type="text/javascript" src="../js/jquery.min.js"></script>-->
+<!--<script data-search-pseudo-elements defer src="https://kit.fontawesome.com/487aa15d6f.js" crossorigin="anonymous"></script>-->
+<script type="text/javascript" src="../js/dark.js"></script>
+<script type="text/javascript" src="../js/echarts4.js"></script>
+<script type="text/javascript" src="../js/echarts.min.js"></script>
+<script src="../communication/test.js"></script>
+<script src="../communication/test2.js"></script>
+<script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+<link href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet" />
+
+
+<body style="height:100%;background-color: #f5f5f5">
+<div id="title" style="height: 4%;width: 100%  ;margin-top:0% ;background-color: #bebebe;padding-top: 0.4%">
+    <g style="font-size: 20px; padding-left: 35%;padding-top: 30%;font-weight: bold; color:#ffffff"> Security Situation Visual Analysis System Based On Multiple Source Log Data</g>
+</div>
+<div id="graph" style="height: 92%;width:100% ; background-color: #f5f5f5;">
+    <div id="control" style="height: 100%;width: 11%;margin-top: 0.4%;background-color: #f5f5f5">
+        <div id="select" style="height: 20%;width: 100%;background-color: #ffffff">
+            <select id="selectstate" style="outline:none;margin-top: 10%; margin-left: 10%" onChange="t1()">
+                <option value="all">Overview Of Network Situation</option>
+                <option value="database">Database Attack</option>
+                <option value="communication">Abnormal Communication Mode</option>
+            </select>
+            <select id="selectdata" style="outline:none;margin-top: 10%; margin-left: 10%" onChange="t1()">
+                <option value="0531">05-31</option>
+                <option value="0601">06-01</option>
+                <option value="0602">06-02</option>
+                <option value="0603">06-03</option>
+                <option value="0604">06-04</option>
+                <option value="0605">06-05</option>
+                <option value="0606">06-06</option>
+                <option value="0607">06-07</option>
+                <option value="0608">06-08</option>
+                <option value="0609">06-09</option>
+                <option value="0610">06-10</option>
+                <option value="0611">06-11</option>
+                <option value="0612">06-12</option>
+                <option value="0613">06-13</option>
+            </select>
+
+        </div>
+        <div id="treemap" style="height: 83%;width: 100%;margin-top: 3%; background-color: #ffffff">
+            <svg id="svg"></svg>
+        </div>
+    </div>
+    <div id="left" style="height: 100%; width: 21%;margin-top: 0.4%;margin-left:0.4%;background-color: #f5f5f5">
+        <div id="left_one" style="height: 40%;width: 100%;background-color: #ffffff"></div>
+        <div id="left_two" style="height: 60%;width: 100%;background-color: #ffffff;margin-top: 2%"></div>
+    </div>
+    <div id="mind" style="height: 101%; width: 45.5%;margin-top: 0.4%;margin-left:0.4%;background-color: #f5f5f5">
+        <div id="mind_one" style="height: 70%;width: 100%;background-color: #ffffff"></div>
+        <div id="mind_two" style="height: 29%;width: 100%;background-color: #ffffff;margin-top: 1%"></div>
+    </div>
+    <div id="right" style="height: 100%; width: 21%;margin-top: 0.4%;margin-left:0.4%;background-color: #f5f5f5">
+        <div id="right_one" style="height: 40%;width: 100%;background-color: #ffffff">
+<!--             <svg width = "100%" height = "100%" id = 'viz'></svg>-->
+        </div>
+        <div id="right_two" style="height: 60%;width: 100%;background-color: #ffffff;margin-top: 2%"></div>
+    </div>
+</div>
+
+</body>
+<script>
+    var dataset=[]
+    var dataFlow=[]
+    var change=null
+</script>
+<script type="text/javascript" src="../all_js/controltree.js"></script>
+<script type="text/javascript" src="../communication/sort.js"></script>
+<script type="text/javascript" src="../communication/up_down.js"></script>
+<script type="text/javascript" src="../communication/radial.js"></script>
+<script type="text/javascript" src="../communication/sankey.js"></script>
+<script type="text/javascript" src="../communication/mind-two.js"></script>
+<script type="text/javascript" src="../communication/mind-one.js"></script>
+<script type="text/javascript" src="../communication/hotmap.js"></script>
+<!--<script type="text/javascript" src="../communication/treemap.js"></script>-->
+<script type="text/javascript" src="../communication/left_one.js"></script>
+<script type="text/javascript" src="../communication/timeline3.js"></script>
+<script type="text/javascript" src="../communication/IPline.js"></script>
+<script type="text/javascript" src="../database_js/passwords.js"></script>
+<script type="text/javascript" src="../database_js/circular.js"></script>
+<script type="text/javascript" src="../database_js/table.js"></script>
+<script type="text/javascript" src="../database_js/line.js"></script>
+<script type="text/javascript" src="../js2/cloudd3.js"></script>
+<script type="text/javascript" src="../communication/server.js"></script>
+<!--<script type="text/javascript" src="../database_js/cloud.js"></script>-->
+<!--<script type="text/javascript" src="../../data/communication/treemap/d3.v5.min.js"></script>-->
+<!--<script type="module" src="../../data/communication/treemap/bundle.js"></script>-->
+<script>
+    function t1() {
+        var option1 = $("#selectdata option:selected");
+        //alert(option1.val());//获取日期0
+        drawmind(option1.val());
+        $("#treemap text").click(function () {
+        console.log($(this).text());
+    })
+    }
+
+</script>
+</html>

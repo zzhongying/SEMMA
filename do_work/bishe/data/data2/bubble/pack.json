@@ -1,0 +1,65 @@
+{
+	"name": "ALL",
+	"children": [
+		{
+			"name": "530 Login authent\nication failed",
+			"value": "138374",
+			"children": [
+				{"name":"lss6","value":"138374"}
+			]
+		},
+		{
+			"name": "mysql login success",
+			"value": " 254786",
+			"children": [
+				{"name":"lss6","value":"160072"},
+				{"name":"uyhrnf","value":"85448"},
+				{"name":"jxd_gdxj","value":"5698"},
+				{"name":"etgunfwk","value":"1018"},
+				{"name":"nrmhxj-r6","value":"778"},
+				{"name":"yhoxferj","value":"670"},
+				{"name":"etgun59","value":"572"},
+				{"name":"jxd_gwd","value":"464"},
+				{"name":"s3g_zx6lrjx","value":"32"},
+				{"name":"s3g_nkg","value":"22"}
+			]
+		},
+		{
+			"name": "530 Logout",
+			"value": "110054",
+			"children": [
+				{"name":"lss6","value":"110054"}
+			]
+		},
+		{
+			"name": "STATUS_LOGON_FAILURE",
+			"value": "14090",
+			"children": [
+				{"name":"PWEYVOFJCE-T9/vwjomruhxj","value":"13948"},
+				{"name":"LBUZ/PWEYVOFJCE-T9$","value":"142"}
+			]
+		},
+		{
+			"name": "STATUS_LOGON_SUCCESS",
+			"value": "2332",
+			"children": [				{"name":"LBUZ/ewjolxj","value":"260"},
+				{"name":"LBUZ/vbshthw-bl","value":"166"},
+				{"name":"LBUZ/6rxjys","value":"132"},
+				{"name":"LBUZ/ohsdbwjohxjo","value":"122"},
+				{"name":"LBUZ/bhmrxsthw","value":"112"},
+				{"name":"LBUZ/excwr","value":"108"},
+				{"name":"LBUZ/thxjthxj-o","value":"104"},
+				{"name":"LBUZ/cxjotrtr","value":"104"},
+				{"name":"LBUZ/nrhprxjmrj","value":"100"},
+				{"name":"LBUZ/oxstxjjr","value":"96"}
+			]
+		},
+		{
+			"name": "331 User root OK. \nPassword required",
+			"value": "366",
+			"children": [
+			{"name":"lss6","value":"366"}
+			]
+		}
+	]
+}

@@ -1,0 +1,123 @@
+#control, #left, #mind, #right {
+    float: left;
+}
+
+select {
+    font-size: 15px;
+    width: 80%;
+    height: 25%;
+    margin-top: 10%;
+    margin-left: 10%;
+    border-radius: 5px;
+}
+
+.node circle {
+    fill: #fff;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+}
+
+.node {
+    font: 12px sans-serif;
+}
+
+.link {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 1.5px;
+}
+
+.cricle {
+    border: none;
+    outline: none;
+    width: 18%;
+    height: 100%;
+    border-radius: 5px;
+    font-size: 15px;
+    color: black;
+    background-color: #fbfdfa;
+
+}
+
+.cricle:hover {
+    color: #A1A1A1;
+}
+
+#treemap {
+    overflow-y: auto;
+    white-space: nowrap;
+}
+
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: rgba(192, 190, 190, 0.7);
+    stroke-width:5px;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: 'Microsoft YaHei';
+    font-size: 12px;
+
+}
+
+g.type-current > rect {
+    fill: purple;
+}
+
+g.type-success > rect {
+    fill: green;
+}
+
+g.type-fail > rect {
+    fill: red;
+}
+
+text {
+    font-weight: 300;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+    font-size: 14px;
+}
+
+.node rect {
+    stroke: #999;
+    fill: #fff;
+    stroke-width: 1.5px;
+}
+
+.edgePath path {
+    stroke: #333;
+    stroke-width: 1.5px;
+}
+
+g.type-current > rect {
+    fill: lightcyan;
+}
+
+g.type-success > rect {
+    fill: cyan;
+}
+
+g.type-fail > rect {
+    fill: red;
+}
+
+text {
+    font-weight: 200;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+    font-size: 10px;
+}
+
+.node rect {
+    stroke: #999;
+    fill: #fff;
+    stroke-width: 1.5px;
+}
+
+.edgePath path {
+    stroke: #333;
+    stroke-width: 1.5px;
+}
+

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en"  style="height:100%">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+.cricle{
+    border: none;
+    outline: none;
+    width:15%;
+    height: 100%;
+    border-radius: 5px;
+    font-size: 15px;
+    color: black;
+    background-color: #fbfdfa;
+
+}
+.cricle:hover{
+    color: #A1A1A1;
+}
+   	#left{
+			float: left;
+		}
+		#mind{
+			float: left;
+		}
+		#top-right{
+			float: right;
+		}
+		#down-right{
+			float: right;
+		}
+select{
+            font-size: 20px;
+            width: 20%;
+            height: 80%;
+            margin-left: 42%;
+            margin-top: 2%;
+            border-radius: 10px;
+        }
+
+</style>
+
+
+<script type="text/javascript" src="../js/jquery.min.js" ></script>
+<script type="text/javascript" src="../js/echarts.js"></script>
+<script type="text/javascript" src="../js/echarts.min.js"></script>
+<script type="text/javascript" src="../js/dark.js"></script>
+
+<body style="height:100%;background-color: #f5f5f5">
+<div id="title" style="height: 4%;width: 100%  ;margin-top:0% ;background-color: #ffffff">
+ <g style="font-size: 20px; padding-left: 40%;padding-top: 30%"> 基于多源日志数据的安全态势可视分析系统</g>
+</div>
+<div id="graph" style="height: 92% ; width: 100%">
+    <div id="left" style="width:30%; height: 99.6%;  margin-top: 0.4%;background-color: #f5f5f5;">
+        <div id="top-left" style="width: 100%; height: 50%;   background-color: #ffffff;">
+              <div id="title" style="width: 100%;height: 8%; border-bottom: 1px dashed #A1A1A1;background-color: #ffffff ">
+                    <button id="port" class="cricle" value="port" onclick="ServerDetail(this)"  >port</button>
+                    <button id="protocol" class="cricle" value="protocol" onclick="ServerDetail(this)" >protocol</button>
+                </div>
+            <div id="left-top-graph" style="width:100%; height: 83% ; background-color: #ffffff ;padding-bottom: 4%"></div>
+
+        </div>
+
+        <div id="down-left" style="width: 100%; height: 50% ;margin-top: 1.5%; background-color: #ffffff; "></div>
+</div>
+    <div id="mind" style=" width: 39.2%; height: 100%; margin-left: 0.4%; margin-top: 0.4%; background-color: #ffffff;">
+         <div id="selectdata" style="height: 7%;width: 100%;background-color: #FFFFFF">
+            <select style="outline:none;" onChange="t1()">
+                <option value="ALL">ALL</option>
+
+            </select>
+        </div>
+        <div id="mind-graph" style="width: 100%; height: 93%; margin-top: 1%; background-color: #ffffff"></div>
+
+    </div>
+
+    <div id="top-right" style=" width: 30%; height: 49%; margin-top: 0.4%; background-color: #ffffff;" ></div>
+    <div id="down-right" style="width: 30%; height: 51%; margin-top: 0.4%; background-color: #ffffff;"></div>
+
+</div>
+
+</div>
+
+</body>
+
+
+<script type="text/javascript" src="../js/top-left.js" charset="utf-8"></script>
+<script type="text/javascript" src="../js/down_left.js" charset="utf-8"></script>
+<script type="text/javascript" src="../js/down_right.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="../js/top-right.js" charset="utf-8"></script>
+</html>

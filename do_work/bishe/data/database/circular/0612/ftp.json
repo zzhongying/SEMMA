@@ -1,0 +1,17 @@
+{"nodes":[
+{
+"id":0,
+"name":"10.49.212.206",
+"symbolSize":40
+},{
+"id":1,
+"name":"10.49.22.87",
+"symbolSize":40
+}],
+"links":[
+{
+"id":0,
+"source":0,
+"target":1
+}]
+}

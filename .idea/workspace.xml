@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff4aaa8a-4f47-42d6-9ab3-8c9dacb2752a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pSIITU9tqKq3hvoSM8LDyIEmWF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\SFONE\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff4aaa8a-4f47-42d6-9ab3-8c9dacb2752a" name="Default Changelist" comment="" />
+      <created>1615169984538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615169984538</updated>
+      <workItem from="1615169986179" duration="63000" />
+      <workItem from="1649403782702" duration="373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3365" y="297" key="FileChooserDialogImpl" timestamp="1649403935148">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="3365" y="297" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1649403935148" />
+    <state x="3437" y="453" key="Github.ShareDialog" timestamp="1649403853171">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="3437" y="453" key="Github.ShareDialog/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1649403853171" />
+    <state x="2811" y="292" key="Vcs.Push.Dialog.v2" timestamp="1649404019703">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="2811" y="292" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1649404019703" />
+    <state x="3351" y="239" key="svn.repositoryBrowser" timestamp="1649403946944">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="3351" y="239" key="svn.repositoryBrowser/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1649403946944" />
+    <state x="3204" y="336" key="svn4idea.import.options" timestamp="1649403944174">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="3204" y="336" key="svn4idea.import.options/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1649403944174" />
+  </component>
+</project>

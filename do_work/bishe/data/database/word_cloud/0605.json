@@ -1,0 +1,196 @@
+{
+"10.49.148.130":[
+{"text":"SET","size":"40","num":"97579"},
+{"text":"NAMES","size":"30","num":"48841"},
+{"text":"utf8","size":"30","num":"48545"},
+{"text":"#4294967295","size":"30","num":"49759"},
+{"text":"set","size":"30","num":"48826"},
+{"text":"AUTOCOMMIT","size":"30","num":"48738"},
+{"text":"commitng","size":"20","num":"1345"},
+{"text":"error","size":"20","num":"1352"},
+{"text":"commitck","size":"10","num":"7"},
+{"text":"`client`","size":"10","num":"4"},
+{"text":"commitMES","size":"10","num":"25"},
+{"text":"*","size":"10","num":"1"},
+{"text":"from","size":"10","num":"1"},
+{"text":"`issues`","size":"10","num":"3"},
+{"text":"SHOW","size":"10","num":"2"},
+{"text":"WARNINGSr","size":"10","num":"2"},
+{"text":"`roles`5","size":"10","num":"3"},
+{"text":"10.49.148.130","size":"40","num":"97579"}
+],
+"10.49.148.131":[
+     {"text": "目标IP","size": "40","num": "0"},
+   {"text": "不存在SQL操作","size": "40","num": "0"},
+   {"text": "10.49.148.131","size": "40","num": "0"}
+],
+"10.56.92.187":[
+{"text":"SET","size":"40","num":"85100"},
+{"text":"NAMES","size":"40","num":"85100"},
+{"text":"utf8","size":"35","num":"77781"},
+{"text":"#4294967295","size":"35","num":"77729"},
+{"text":"set","size":"40","num":"85078"},
+{"text":"autocommit","size":"40","num":"85078"},
+{"text":"SELECT","size":"40","num":"84955"},
+{"text":"cmd","size":"40","num":"84955"},
+{"text":"FROM","size":"40","num":"85024"},
+{"text":"WHERE","size":"14","num":"178"},
+{"text":"1","size":"10","num":"78"},
+{"text":"AND","size":"14","num":"117"},
+{"text":"site_id","size":"10","num":"75"},
+{"text":"union_id","size":"10","num":"39"},
+{"text":"'/boot.ini","size":"10","num":"43"},
+{"text":"is_admin","size":"10","num":"4"},
+{"text":"status","size":"10","num":"6"},
+{"text":"'/etc/passwd","size":"10","num":"3"},
+{"text":"10.56.92.187","size":"40","num":"85100"}
+],
+"10.49.178.162":[
+{"text":"SET","size":"10","num":"90"},
+{"text":"NAMES","size":"10","num":"83"},
+{"text":"utf8","size":"10","num":"82"},
+{"text":"#4294967295","size":"10","num":"82"},
+{"text":"SQL_AUTO_IS_NULL","size":"10","num":"7"},
+{"text":"","size":"10","num":"14"},
+{"text":"095","size":"10","num":"7"},
+{"text":"10.49.178.162","size":"10","num":"90"}
+],
+"10.49.174.157":[
+     {"text": "目标IP","size": "40","num": "0"},
+   {"text": "不存在SQL操作","size": "40","num": "0"},
+   {"text": "10.49.174.157","size": "40","num": "0"}
+],
+"10.49.137.123":[
+{"text":"SET","size":"10","num":"3"},
+{"text":"NAMES","size":"10","num":"3"},
+{"text":"latin14294967295","size":"10","num":"3"},
+{"text":"SELECT","size":"10","num":"3"},
+{"text":"UNIX_TIMESTAMP()295","size":"10","num":"3"},
+{"text":"10.49.137.123","size":"10","num":"3"}
+],
+"10.49.223.163":[
+     {"text": "目标IP","size": "40","num": "0"},
+   {"text": "不存在SQL操作","size": "40","num": "0"},
+   {"text": "10.49.223.163","size": "40","num": "0"}
+],
+"10.49.231.21":[
+{"text":"SET","size":"20","num":"1198"},
+{"text":"NAMES","size":"20","num":"1198"},
+{"text":"utf8","size":"20","num":"1172"},
+{"text":"#4294967295","size":"20","num":"1196"},
+{"text":"set","size":"20","num":"1218"},
+{"text":"autocommit","size":"20","num":"1218"},
+{"text":"commitng","size":"10","num":"25"},
+{"text":"error","size":"10","num":"25"},
+{"text":"commitMES","size":"10","num":"2"},
+{"text":"10.49.231.21","size":"20","num":"1198"}
+],
+"10.49.137.87":[
+{"text":"SET","size":"14","num":"403"},
+{"text":"NAMES","size":"14","num":"403"},
+{"text":"UTF8","size":"14","num":"376"},
+{"text":"#4294967295","size":"14","num":"376"},
+{"text":"UTF8ROM","size":"10","num":"1"},
+{"text":"`tree`95","size":"10","num":"1"},
+{"text":"10.49.137.87","size":"14","num":"403"}
+],
+"10.49.223.117":[
+     {"text": "目标IP","size": "40","num": "0"},
+   {"text": "不存在SQL操作","size": "40","num": "0"},
+   {"text": "10.49.223.117","size": "40","num": "0"}
+],
+"10.56.92.125":[
+{"text":"SET","size":"10","num":"3"},
+{"text":"PROFILING","size":"10","num":"1"},
+{"text":"SHOW","size":"10","num":"2"},
+{"text":"STATUSNG","size":"10","num":"2"},
+{"text":"NAMES","size":"10","num":"2"},
+{"text":"utf8","size":"10","num":"2"},
+{"text":"#4294967295","size":"10","num":"2"},
+{"text":"10.56.92.125","size":"10","num":"3"}
+],
+"10.24.249.104":[
+     {"text": "目标IP","size": "40","num": "0"},
+   {"text": "不存在SQL操作","size": "40","num": "0"},
+   {"text": "10.24.249.104","size": "40","num": "0"}
+],
+"10.56.148.80":[
+{"text":"SET","size":"10","num":"67"},
+{"text":"NAMES","size":"10","num":"36"},
+{"text":"'utf8'4294967295","size":"10","num":"30"},
+{"text":"sql_mode","size":"10","num":"31"},
+{"text":"USE","size":"10","num":"4"},
+{"text":"`chitu`ror","size":"10","num":"1"},
+{"text":"`inner`ror","size":"10","num":"1"},
+{"text":"SHOW","size":"10","num":"8"},
+{"text":"COLUMNS","size":"10","num":"8"},
+{"text":"FROM","size":"10","num":"8"},
+{"text":"`job`295","size":"10","num":"2"},
+{"text":"`tags`95","size":"10","num":"6"},
+{"text":"`chitu`tf8","size":"10","num":"1"},
+{"text":"10.56.148.80","size":"10","num":"67"}
+],
+"10.49.253.77":[
+     {"text": "目标IP","size": "40","num": "0"},
+   {"text": "不存在SQL操作","size": "40","num": "0"},
+   {"text": "10.49.253.77","size": "40","num": "0"}
+],
+"10.56.148.238":[
+{"text":"SET","size":"10","num":"13"},
+{"text":"10.56.148.238","size":"10","num":"13"},
+{"text":"NAMES","size":"10","num":"8"},
+{"text":"utf8","size":"10","num":"3"},
+{"text":"#4294967295","size":"13","num":"3"},
+{"text":"set","size":"10","num":"3"},
+{"text":"names","size":"10","num":"3"},
+{"text":"sql_mode","size":"10","num":"5"},
+{"text":"SHOW","size":"10","num":"5"},
+{"text":"COLUMNS","size":"10","num":"5"},
+{"text":"FROM","size":"10","num":"5"},
+{"text":"`tasks`5","size":"10","num":"4"},
+{"text":"`user`95","size":"10","num":"1"}
+],
+"10.49.36.165":[
+     {"text": "目标IP","size": "40","num": "0"},
+   {"text": "不存在SQL操作","size": "40","num": "0"},
+   {"text": "10.49.36.165","size": "40","num": "0"}
+],
+"10.56.34.134":[
+{"text":"SET","size":"10","num":"11"},
+{"text":"NAMES","size":"10","num":"3"},
+{"text":"utf8","size":"14","num":"28"},
+{"text":"#4294967295","size":"10","num":"4"},
+{"text":"PROFILING","size":"10","num":"8"},
+{"text":"1;","size":"10","num":"6"},
+{"text":"`command`","size":"10","num":"8"},
+{"text":"SHOW","size":"17","num":"17"},
+{"text":"STATUSNG","size":"10","num":"14"},
+{"text":"utf8M","size":"10","num":"2"},
+{"text":"STATUSror","size":"10","num":"3"},
+{"text":"10.56.34.134","size":"10","num":"28"}
+],
+"10.49.253.35":[
+     {"text": "目标IP","size": "40","num": "0"},
+   {"text": "不存在SQL操作","size": "40","num": "0"},
+   {"text": "10.49.253.35","size": "40","num": "0"}
+],
+"10.49.253.219":[
+{"text":"SET","size":"13","num":"47"},
+{"text":"NAMES","size":"13","num":"47"},
+{"text":"utf8","size":"10","num":"42"},
+{"text":"#4294967295","size":"10","num":"35"},
+{"text":"set","size":"10","num":"49"},
+{"text":"autocommit","size":"16","num":"49"},
+{"text":"select","size":"10","num":"9"},
+{"text":"id,name","size":"10","num":"9"},
+{"text":"from","size":"10","num":"16"},
+{"text":"groups","size":"10","num":"23"},
+{"text":"0rom","size":"10","num":"7"},
+{"text":"10.49.253.219","size":"13","num":"49"}
+],
+"10.49.137.141":[
+     {"text": "目标IP","size": "40","num": "0"},
+   {"text": "不存在SQL操作","size": "40","num": "0"},
+   {"text": "10.49.137.141","size": "40","num": "0"}
+]
+}

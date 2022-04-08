@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en" style="height:100%">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+<style>
+    #control,#left,#mind,#right{
+        float: left;
+    }
+    select {
+        font-size: 15px;
+        width: 80%;
+        height: 25%;
+        margin-top: 10%;
+        margin-left: 10%;
+        border-radius: 5px;
+    }
+    .node circle {
+            fill: #fff;
+            stroke: steelblue;
+            stroke-width: 1.5px;
+        }
+        .node {
+            font: 12px sans-serif;
+        }
+        .link {
+            fill: none;
+            stroke: #ccc;
+            stroke-width: 1.5px;
+        }
+
+</style>
+
+<script type="text/javascript" src="../js/d3.v3.js"></script>
+<script type="text/javascript" src="../js/d3.min.js"></script>
+<script type="text/javascript" src="../js/jquery.min.js" ></script>
+<script type="text/javascript" src="../js/dark.js"></script>
+<script type="text/javascript" src="../js/echarts.js"></script>
+<script type="text/javascript" src="../js/echarts.min.js"></script>
+<script src="../js2/worldcloud.js"></script>
+<script type="text/javascript" src="../js2/cloud.js"></script>
+
+<body style="height:100%;background-color: #f5f5f5">
+<div id="title" style="height: 4%;width: 100%  ;margin-top:0% ;background-color: #ffffff">
+ <g style="font-size: 20px; padding-left: 40%;padding-top: 30%"> 基于多源日志数据的安全态势可视分析系统</g>
+</div>
+<div id="graph" style="height: 92%;width:100% ; background-color: #f5f5f5;">
+    <div id="control" style="height: 100%;width: 13%;margin-top: 0.4%;background-color: #f5f5f5">
+          <div id="select" style="height: 20%;width: 100%;background-color: #ffffff">
+               <select id="selectstate" style="outline:none;"  onChange="t1()">
+                  <option value="all">网络态势总缆</option>
+                  <option value="database">数据库攻击</option>
+                  <option value="communication">通信模式异常</option>
+               </select>
+               <select id="selectdata" style="outline:none;" onChange="t1()" >
+                  <option value="0531">05-31</option>
+                  <option value="0601">06-01</option>
+                  <option value="0602">06-02</option>
+                  <option value="0603">06-03</option>
+                  <option value="0604">06-04</option>
+                  <option value="0605">06-05</option>
+                  <option value="0606">06-06</option>
+                  <option value="0607">06-07</option>
+                  <option value="0608">06-08</option>
+                  <option value="0609">06-09</option>
+                  <option value="0610">06-10</option>
+                  <option value="0611">06-11</option>
+                  <option value="0612">06-12</option>
+                  <option value="0613">06-13</option>
+               </select>
+
+        </div>
+          <div id="treemap" style="height: 80%;width: 100%;margin-top: 3%; background-color: #ffffff"></div>
+    </div>
+    <div id="left" style="height: 100%; width: 22%;margin-top: 0.4%;margin-left:0.4%;background-color: #f5f5f5">
+        <div id="left_one" style="height: 33%;width: 100%;background-color: #ffffff"></div>
+        <div id="left_two" style="height: 33%;width: 100%;background-color: #ffffff;margin-top: 2%"></div>
+        <div id="left_two" style="height: 33%;width: 100%;background-color: #ffffff;margin-top: 2%"></div>
+    </div>
+    <div id="mind" style="height: 100%; width: 41.6%;margin-top: 0.4%;margin-left:0.4%;background-color: #f5f5f5">
+        <div id="mind_one" style="height: 67%;width: 100%;background-color: #ffffff"></div>
+        <div id="mind_two" style="height: 33%;width: 100%;background-color: #ffffff;margin-top: 1%"></div>
+    </div>
+    <div id="right" style="height: 100%; width: 22%;margin-top: 0.4%;margin-left:0.4%;background-color: #f5f5f5">
+        <div id="right_one" style="height: 33%;width: 100%;background-color: #ffffff"></div>
+        <div id="right_two" style="height: 33%;width: 100%;background-color: #ffffff;margin-top: 2%"></div>
+        <div id="right_two" style="height: 33%;width: 100%;background-color: #ffffff;margin-top: 2%"></div>
+    </div>
+</div>
+
+</body>
+<script type="text/javascript" src="../all_js/controltree.js"></script>
+<script type="text/javascript" src="../communication/up_down.js"></script>
+<script>
+
+     function t1() {
+        //状态判定
+        $('#treemap').html(''); //清空
+         var option1=$("#selectstate option:selected");
+        //alert(options.val());//获取value
+        treecontrol(option1.val());
+        $('#selectdata').css('display','inline');
+        if(option1.val()=='all')     //重复动态加载出现问题
+        {
+            $('#selectdata').css('display','none');
+            $.getScript("../all_js/down_left.js");
+            $.getScript("../all_js/down_right.js");
+            $.getScript("../all_js/top-left.js");
+            $.getScript("../all_js/top-hotmap.js");
+        }
+        if(option1.val()=='database')
+        {
+             alert(option1.val());
+        }
+        if(option1.val()=='communication')
+        {
+             //alert(option1.val());
+             //日期判定
+
+            var option2=$("#selectdata option:selected");
+            alert(option2.val())
+            updown(option2.val())
+        }
+
+
+
+
+    }
+
+</script>
+
+</html>
